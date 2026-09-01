@@ -1,3 +1,3 @@
 # bluoperatingsystem
-just doing my work 
+just building hobby
  
